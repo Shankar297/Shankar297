@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shankar Wagh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Thyroid disease detection**
+- 🔭 I’m currently working as **Data Scientist** in Scloudin software solutions pvt ltd
 
 - 🌱 I’m currently learning **Deep Learning, Big Data, Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 💬 Ask me about **Python, Statistic, Machine Learning**
+- 💬 Ask me about **Python, Statistic, Machine Learning, Deep Learning, AWS, Data Engineering etc **
 
 - 📫 How to reach me **https://www.linkedin.com/in/shankar-wagh/**
 
