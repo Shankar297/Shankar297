@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shankar Wagh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-![pexels-pavel-danilyuk-8084614_454_480](https://user-images.githubusercontent.com/76767335/171617262-00724696-e52e-4edb-97c7-eafca984781c.gif)
-
-
 - 🔭 I’m currently working as **Data Scientist** in Scloudin software solutions pvt ltd
 
 - 🌱 I’m currently learning **Deep Learning, Big Data, Cloud Computing**
@@ -13,6 +10,8 @@
 - 💬 Ask me about **Python, Statistic, Machine Learning, Deep Learning, AWS, Data Engineering etc **
 
 - 📫 How to reach me **https://www.linkedin.com/in/shankar-wagh/**
+
+![pexels-pavel-danilyuk-8084614_454_480](https://user-images.githubusercontent.com/76767335/171617262-00724696-e52e-4edb-97c7-eafca984781c.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
