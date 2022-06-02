@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 💬 Ask me about **Python, Statistic, Machine Learning, Deep Learning, AWS, Data Engineering etc **
+- 💬 Ask me about **Python, Statistic, Machine Learning, Deep Learning, AWS, Data Engineering etc**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shankar-wagh/**
 
